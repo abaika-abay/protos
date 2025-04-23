@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package auth;
 
-option go_package = "github.com/abay/protos/gen/go/sso;sso";
+option go_package = "github.com/abaika-abay/protos/gen/go/sso;sso";
 
 
 service Auth {
